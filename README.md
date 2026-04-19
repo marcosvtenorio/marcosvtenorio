@@ -6,5 +6,3 @@
 
 <h1 align="center">hi, i'm <a href="https://marcostenorio.me">Marcos Tenorio</a>!</h1>
 <h3 align="center">welcome to my profile</h3>
-
-<p align="center">QA Engineer @CESAR</p>
